@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "docusaurus-test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Yuji Suzuki <y0suzuki0123@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  }
+}
